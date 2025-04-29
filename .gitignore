@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.env.*
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Byte-compiled / packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache/
+.pytest_cache/
